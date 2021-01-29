@@ -1,5 +1,5 @@
 ## Java8NewFeaturesTest
-  This project is just testing Java 8 new Features. Details of Java8 Features can be read [here](https://www.javatpoint.com/java-8-features).
+  This project is just testing Java 8 new Features. Detail of Java8 Features can be read [here](https://www.javatpoint.com/java-8-features).
   
 ## Features included in this project
 - Lambda Expression
